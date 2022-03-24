@@ -10,3 +10,5 @@ which scallion does not support.
  > moved to
 
 F5PO2oo9o2ipsidiIFmt0oruzxphewfaqa1tm0silwoabsixo0ttr3x.onion
+
+mirrors via telegraph bot upcoming
